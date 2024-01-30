@@ -27,9 +27,3 @@ Before running the application, make sure you have the following dependencies in
 - **Python 3.x**
 - **OpenCV**
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/facial-emotion-detection.git
